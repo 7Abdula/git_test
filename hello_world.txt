@@ -1,1 +1,3 @@
 What is up?
+This is to test opening the text editor when committing, let's go!
+Again and again!
